@@ -3,7 +3,7 @@ title: Bagulho doido
 date: 2020-04-11T00:00:00-03:00
 image_webp: ''
 image: ''
-author: Trevor Philiphs
+author: Trevor Philips
 description: Apenas Teste
 
 ---

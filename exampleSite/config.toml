@@ -1,5 +1,5 @@
 baseURL = "https://radioorbit.netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -20,31 +20,35 @@ weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 5
-[[menu.main]]
-URL = "pricing"
-name = "Preços"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contato"
 weight = 6
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
 [[menu.main]]
 URL = "services"
 name = "Serviços"
 weight = 2
 [[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "Preços"
+weight = 5
+[[menu.main]]
 URL = "about"
 name = "Sobre Nós"
 weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 7
 [[menu.static]]
 URL = "https://paulonet.xyz/"
 name = "Paulo Net"
-weight = 1
+weight = 8
 [params]
 author = "Paulo Silas"
 description = "Bagulho doido"

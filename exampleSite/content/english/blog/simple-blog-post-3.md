@@ -1,7 +1,7 @@
 ---
 title: Bagulho doido
 date: 2020-04-11T00:00:00-03:00
-image_webp: images/blog/blog-post-1.webp
+image_webp: ''
 image: images/blog/blog-post-1.jpg
 author: Trevor
 description: Apenas Teste

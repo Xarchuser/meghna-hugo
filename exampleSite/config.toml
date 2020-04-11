@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://radioorbit.netlify.com"
-title = "Meghna"
+title = "Trevor Philipis Enterprises"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -42,12 +42,12 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "Sobre Nós"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Service"
+name = "Serviços"
 URL = "services"
 weight = 2
 
@@ -62,7 +62,7 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Pricing"
+name = "Preços"
 URL = "pricing"
 weight = 5
 
@@ -72,14 +72,14 @@ URL = "blog"
 weight = 6
 
 [[menu.main]]
-name = "Contact"
+name = "Contato"
 URL = "contact"
 weight = 7
 
 #### external / static link ####
 [[menu.static]]
-name = "Themefisher"
-URL = "https://themefisher.com/"
+name = "Paulo Net"
+URL = "https://paulonet.xyz/"
 weight = 8
 
 ############################# Default Parameters ##########################
@@ -87,7 +87,7 @@ weight = 8
 logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+author = "Paulo Silas"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
 # post share
@@ -95,12 +95,12 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"

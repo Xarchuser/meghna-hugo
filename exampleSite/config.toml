@@ -18,37 +18,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "Sobre Nós"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 5
 [[menu.main]]
-URL = "services"
-name = "Serviços"
-weight = 2
+URL = "pricing"
+name = "Preços"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 6
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
+URL = "services"
+name = "Serviços"
+weight = 2
 [[menu.main]]
-URL = "pricing"
-name = "Preços"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
-URL = "contact"
-name = "Contato"
-weight = 7
+URL = "about"
+name = "Sobre Nós"
+weight = 1
 [[menu.static]]
 URL = "https://paulonet.xyz/"
 name = "Paulo Net"
-weight = 8
+weight = 1
 [params]
 author = "Paulo Silas"
 description = "Bagulho doido"
